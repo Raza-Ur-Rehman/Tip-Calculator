@@ -45,6 +45,7 @@ h1 {
 }
 p {
     font-size: 16px;
+    font-weight: 600;
 }
 input {
     height: 40px;
@@ -53,6 +54,7 @@ input {
     padding: 10px;
     font-size: 14px;
     border-radius: 5px;
+    background: transparent;
 }
 button {
     height: 40px;
@@ -65,5 +67,10 @@ button {
     font-size: 20px;
     font-weight: 540;
     color: #fff;
+
+}
+#total {
+    font-size: 20px;
+    font-weight: 600;
 
 }
